@@ -26,8 +26,8 @@ namespace Oscuro
             Console.WriteLine("Defining variables");
             
             DiscordClient client = new DiscordClient(BotSettings.botToken, isbot);
-            client.ClientPrivateInformation.Email = "ghost7654@mail.ru";
-            client.ClientPrivateInformation.Password = "ermak1150gelsus86";
+            client.ClientPrivateInformation.Email = "email";
+            client.ClientPrivateInformation.Password = "pass";
 
 
             Console.WriteLine("Defining Events");
@@ -36,7 +36,7 @@ namespace Oscuro
             {
                 Console.WriteLine("Connected! User: " + e.User.Username);
                 
-                //client.UpdateCurrentGame(BotSettings.botStatus, true, "https://github.com/NaamloosDT/DiscordSharp_Starter");
+                client.UpdateCurrentGame(BotSettings.botStatus, true, "https://github.com/Follew/Oscuro-Bot/");
 
                 if (client.Me.Username != BotSettings.botName)
                 {
