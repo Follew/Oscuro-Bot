@@ -1,0 +1,15 @@
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\Oscuro.exe.config
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\Oscuro.exe.config
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\Oscuro.exe
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\Oscuro.pdb
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\AsyncBridge.Net35.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\SharpCord.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\System.Threading.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\websocket-sharp.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\WebSocket4Net.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\AsyncBridge.Net35.xml
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\bin\Debug\System.Threading.xml
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\obj\Debug\Oscuro.csprojResolveAssemblyReference.cache
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\obj\Debug\Oscuro.exe
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\Discord_Bot\Discord_Bot\Discord_Bot\obj\Debug\Oscuro.pdb

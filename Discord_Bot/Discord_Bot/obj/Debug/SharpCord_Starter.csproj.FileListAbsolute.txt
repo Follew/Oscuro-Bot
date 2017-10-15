@@ -1,0 +1,14 @@
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\SharpCord_Starter.exe.config
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\SharpCord_Starter.exe
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\SharpCord_Starter.pdb
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\AsyncBridge.Net35.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\SharpCord.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\System.Threading.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\websocket-sharp.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\WebSocket4Net.dll
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\AsyncBridge.Net35.xml
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\bin\Debug\System.Threading.xml
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\obj\Debug\SharpCord_Starter.csprojResolveAssemblyReference.cache
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\obj\Debug\SharpCord_Starter.exe
+C:\Users\Георгий\Documents\Visual Studio 2015\Projects\DiscordSharp_Starter-master\DiscordSharp_Starter\DiscordSharp_Starter\obj\Debug\SharpCord_Starter.pdb
