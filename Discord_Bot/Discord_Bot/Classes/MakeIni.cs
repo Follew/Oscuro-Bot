@@ -15,7 +15,7 @@ namespace Oscuro
             {
                 IniFile MyIni = new IniFile("Bot_Settings.ini");
 
-                MyIni.Write("Bot Token", "MzY5MTM1NjgyMTE3MDQyMTg3.DMUIIA.t9PsQOCRdsaZOuWVlAdTGP7G7WQ");
+                MyIni.Write("Bot Token", "tokrn");
                 MyIni.Write("Bot Name", "Oscuro");
                 MyIni.Write("Game its playing", ":3");
                 MyIni.Write("Prefix", "##");
